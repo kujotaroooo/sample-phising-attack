@@ -54,7 +54,7 @@ cd C:\ethical-phishing-sim
 python server.py
 ```
 
-*Insert a screenshot of this terminal running the command and Flask server (e.g., `screenshots/py.png`).*
+![Python Flask Server](screenshots/py.png)
 
 ### Step 2: Start ngrok Tunnel
 
@@ -70,7 +70,7 @@ cd C:\ngrok         # Or wherever ngrok.exe is located
 ngrok http 8080
 ```
 
-*Insert a screenshot of ngrok running and showing the forwarding link (e.g., `screenshots/ngrok.png`).*
+![NGROK RUNNING](ngrok.png)
 
 ---
 
