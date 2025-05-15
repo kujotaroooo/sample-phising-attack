@@ -116,7 +116,8 @@ ngrok:
 
 ![](screenshots/6.png)
 
-
+note!:
+without ngrock the phishing cant be accesss online, ngrock create route for the local website
 ##  Author
 
 **kujotaroooo** 
