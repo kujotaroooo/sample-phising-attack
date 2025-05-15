@@ -70,7 +70,7 @@ cd C:\ngrok         # Or wherever ngrok.exe is located
 ngrok http 8080
 ```
 
-![NGROK RUNNING](ngrok.png)
+![NGROK RUNNING](screenshots/ngrok.png)
 
 ---
 
