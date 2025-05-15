@@ -99,7 +99,9 @@ you will see your template of facbook there like this:
 check it:
 
 ![](screenshots/2.png)
+|
 ![](screenshots/3.png)
+|
 ![](screenshots/4.png)
 ##  Author
 
