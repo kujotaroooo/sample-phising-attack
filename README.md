@@ -103,6 +103,20 @@ check it:
 ![](screenshots/3.png)
 |
 ![](screenshots/4.png)
+
+
+## MAKE SURE NGROK AND PYSERVER STILL RUNNING WHILE PERFORMING
+
+pyserver:
+
+![](screenshots/5.png)
+
+
+ngrok:
+
+![](screenshots/6.png)
+
+
 ##  Author
 
 **kujotaroooo** 
