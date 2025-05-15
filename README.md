@@ -1,5 +1,7 @@
 # Phishing Simulation 
 
+
+
 > ⚠ **DISCLAIMER:** This tool is intended **strictly for educational use** to understand how phishing works and how to prevent it. Do **NOT** use this tool for illegal purposes.
 
 ---
@@ -9,10 +11,10 @@
 Clone this repository to get started:
 
 ```bash
-git clone https://github.com/kujotaroooo/server.git
+https://github.com/kujotaroooo/sample-phising-attack.git
 cd server.py
 ```
-*Replace the link above with your actual GitHub repository URL.*
+
 
 ---
 
@@ -22,7 +24,7 @@ This project helps beginners and cybersecurity students learn and simulate a phi
 
 ---
 
-## 🛠️ Installation Steps
+##  Installation Steps
 
 ### 1. Prepare Your Environment
 
