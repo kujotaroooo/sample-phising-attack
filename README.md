@@ -86,8 +86,21 @@ https://xxxx-xxx-xxx.ngrok-free.app
 
 ✅ This link works across networks (not just on the same Wi-Fi).
 
+## GO TO BROWSER PASTE THAT LINK
+
+you will see your template of facbook there like this:
+
+![browse](screenshots/1.png)
 
 
+
+## THE PASSWORD AND USERNAME STORED 
+
+check it:
+
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
 ##  Author
 
-**Jomar** 
+**kujotaroooo** 
