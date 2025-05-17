@@ -2,7 +2,6 @@
 
 
 
-> ⚠ **DISCLAIMER:** This tool is intended **strictly for educational use** to understand how phishing works and how to prevent it. Do **NOT** use this tool for illegal purposes.
 
 ---
 
@@ -18,9 +17,7 @@ cd server.py
 
 ---
 
-##  Purpose
 
-This project helps beginners and cybersecurity students learn and simulate a phishing attack in a controlled environment to build defense skills and awareness.
 
 ---
 
